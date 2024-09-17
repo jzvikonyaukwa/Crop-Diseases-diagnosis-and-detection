@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Security
+Flask-Script
+mysqlclient
+email_validator
+Flask-Bcrypt
+numpy
+opencv-python
+tensorflow-cpu
